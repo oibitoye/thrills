@@ -1,0 +1,4 @@
+graft thrills/templates
+graft thrills/static
+include thrills/schema.sql
+

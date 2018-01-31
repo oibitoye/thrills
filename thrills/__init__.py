@@ -1,0 +1,1 @@
+from .thrills import app
